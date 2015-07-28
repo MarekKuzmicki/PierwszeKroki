@@ -1,0 +1,2 @@
+# PierwszeKroki
+Pierwsze próby programowania
